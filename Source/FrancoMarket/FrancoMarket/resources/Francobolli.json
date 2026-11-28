@@ -1,3 +1,5 @@
-{"monalisa", 10, "lire francesi"}
-{"urlodelsium", 20, "lire francesi"}
-{"monet", 17, "lire francesi"}
+{1, "monalisa", 10, "lire francesi"}
+{2, "urlodelsium", 20, "lire francesi"}
+{3, "monet", 17, "lire francesi"}
+{y15, "burattino arnese macinatore gigante", 0.02, "euro"} 
+{y39, "utopia", 1.09, "euro"}
