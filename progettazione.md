@@ -12,3 +12,4 @@ sistema di ELO
 francobolli rari foil
 
 
+barra di progresso
